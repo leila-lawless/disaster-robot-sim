@@ -5,7 +5,7 @@ public enum RobotState {
     NAVIGATING,
     EXECUTING,
     LOW_BATTERY,
-    REXHARGING,
+    RECHARGING,
     EMERGENCY,
     OFFLINE,
 }
